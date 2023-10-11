@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+a {
+    color: blueviolet;
+}
+section h2 {
+   background-color: blueviolet;
+}
+main {
+    width: 200px;
+    height: 350px;
+    padding: auto;
+    border: 4px;
+    margin: 8px;
+    box-sizing: content-box;
+    background-color: blue;
+}
+ul {
+    list-style: none;
+}
